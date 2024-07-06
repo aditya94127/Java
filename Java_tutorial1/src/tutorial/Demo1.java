@@ -6,6 +6,7 @@ public class Demo1 {
 	public static void main(String[] args) {
 		System.out.println(j);
 		Demo1 obj1=new Demo1();
+		System.out.println(obj1.j);
 		obj1.test1();
 	}
 	public  void test1() {
