@@ -12,6 +12,7 @@ public class Demo2 {
 	public void test() {
 		System.out.println(obj.i);
 		System.out.println("test 1");
+		System.out.println("test 2");
 	}
 
 }
